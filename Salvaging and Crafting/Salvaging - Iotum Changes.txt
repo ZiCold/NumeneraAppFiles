@@ -1,0 +1,26 @@
+Iotum Changes
+4
+Bio-Circuitry -> Pliable Metal
+Synthsteel -> 	 Pliable Metal
+
+5
+Azure Steel -> 	Mimetic Gel
+Quantium -> 	Mimetic Gel
+
+6
+Thaum Dust -> 	Amber Crystal
+Protomatter -> 	10xAmber Crystal
+
+7
+Kaon dot -> 	Psiranium
+Monopole -> 	Psiranium
+Smart Tissue -> Psiranium
+
+8
+Midnight Stone -> Oraculum
+Virtuon particles -> Oraculum
+
+9
+Philosophine -> Tamed iron
+Scalar Boson Rod -> Tamed iron
+Data orb -> 	Tamed iron
