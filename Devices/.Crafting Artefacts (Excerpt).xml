@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artefacts>
+	<Artefact>
+		<Name>DEAD TIMELINE VIEWER</Name>
+		<Level>1d6 + 1</Level>
+		<MinimumCraftingLevel>4</MinimumCraftingLevel>
+		<Form>Metallic device mounted with a 6-inch (15 cm) crystal screen</Form>
+		<Effect>Holographic images flicker to life on the screen, showing the user in a situation that has never happened in this reality and that probably never will. With some study and experimentation, the user deduces that the images represent outcomes that would’ve occurred except for some decision the user made in the past that set them on their current course. Once that is understood, the user can attempt to use the device to explore a range of different hypothetical strategies for attempting to deal with a particular issue or problem and see how each might play out. Using the viewer eases the difficulty of a numenera crafting task, a salvage task, a negotiation that takes course over several days, or long-term play rolls that might be required to achieve success.</Effect>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>FINGENT BRACE</Name>
+		<Level>1d6 + 2</Level>
+		<MinimumCraftingLevel>5</MinimumCraftingLevel>
+		<Form>A synth panel screen and wires that must be affixed to the head of a creature using a headband or brace, such that the wearer can glance to the side and see the screen</Form>
+		<Effect>This device shows a visual image of the details of a numenera plan, one at a time, provided the user has taken a few days to prep the device. (It can also hold other explicit directions or images, if desired.) If worn during a numenera crafting task for the majority of the time it takes to build an object or structure, the artifact provides one asset to the assessed difficulty of the crafting task.</Effect>
+		<Depletion>1 in 1d20 (check per month of use)</Depletion>
+	</Artefact>
+
+	<Artefact>
+		<Name>STRUCTURAL EXTRUDER</Name>
+		<Level>1d6 + 2</Level>
+		<MinimumCraftingLevel>3</MinimumCraftingLevel>
+		<Form>A series of short, rounded tubes and hoses about 12 inches (30 cm) long connected to a device that can be carried or worn as a pack</Form>
+		<Effect>When activated, it produces a solid piece of amber-colored crystal over the course of a minute that can take one or two simple shapes: a plank up to 10 feet (3 m) long or a plane up to 10 feet (3 m) by 10 feet (3 m) that could be used as a floor, a wall partition, a ramp, etc. If the structural extruder is used as part of the crafting process for building a commonplace or numenera structure, the assessed difficulty for the task is lowered by one step.</Effect>
+		<Depletion>1 in 1d10 (check per week of use)</Depletion>
+	</Artefact>
+
+	<Artefact>
+		<Name>WEARABLE WORKSHOP, BASIC</Name>
+		<Level>1d6 + 1 Usable: Large pack-like device with multiple extending arms and tools</Level>
+		<MinimumCraftingLevel>4</MinimumCraftingLevel>
+		<Effect>This mobile workshop allows a crafter to work without a workbench and tools. The mobile workbench holds crafted objects in place and provides additional tools for a variety of needs, including not only crafting tasks but also tasks associated with investigation and analysis. The wearable workshop enables crafting tasks by providing appropriate tools; its extra limbs replicate a work surface. The wearable workshop is bulky, however, and any character wearing one is hindered in all Speed defense tasks.</Effect>
+		<Depletion>1 in 1d100 (check per week of use)</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>WEARABLE WORKSHOP, SMART</Name>
+		<Level>1d6 + 3 Usable: Large pack-like device with multiple extending arms and tools</Level>
+		<MinimumCraftingLevel>6</MinimumCraftingLevel>
+		<Effect>As the basic wearable workshop, except the smart workshop has a limited capacity to improve the work of its maker, providing two assets to the assessed difficulty of any crafting task done predominantly while wearing the workshop. The wearable workshop is bulky, however, and any character wearing one is hindered in all Speed defense tasks.</Effect>
+		<Depletion>1 in 1d20 (check per completed crafting project)</Depletion>
+	</Artefact>
+</Artefacts>
