@@ -28,13 +28,13 @@
 		<Name>WEARABLE WORKSHOP, BASIC</Name>
 		<Level>1d6 + 1 Usable: Large pack-like device with multiple extending arms and tools</Level>
 		<MinimumCraftingLevel>4</MinimumCraftingLevel>
-		<Effect>This mobile workshop allows a crafter to work without a workbench and tools. The mobile workbench holds crafted objects in place and provides additional tools for a variety of needs, including not only crafting tasks but also tasks associated with investigation and analysis. The wearable workshop enables crafting tasks by providing appropriate tools; its extra limbs replicate a work surface. The wearable workshop is bulky, however, and any character wearing one is hindered in all Speed defense tasks.</Effect>
-		<Depletion>1 in 1d100 (check per week of use)</Depletion>
+		<Effect>This mobile workshop allows a crafter to work without a workbench and tools. The mobile workbench holds crafted objects in place and provides additional tools for a variety of needs, including not only crafting tasks but also tasks associated with investigation and analysis. The wearable workshop enables crafting tasks by providing appropriate tools; its extra limbs replicate a work surface; it gives one asset to assessed craft difficulty. The wearable workshop is bulky, however, and any character wearing one is hindered in all Speed defense tasks.</Effect>
+		<Depletion>1 in 1d20 (check per completed crafting project)</Depletion>
 	</Artefact>
 	<Artefact>
 		<Name>WEARABLE WORKSHOP, SMART</Name>
 		<Level>1d6 + 3 Usable: Large pack-like device with multiple extending arms and tools</Level>
-		<MinimumCraftingLevel>6</MinimumCraftingLevel>
+		<MinimumCraftingLevel>7</MinimumCraftingLevel>
 		<Effect>As the basic wearable workshop, except the smart workshop has a limited capacity to improve the work of its maker, providing two assets to the assessed difficulty of any crafting task done predominantly while wearing the workshop. The wearable workshop is bulky, however, and any character wearing one is hindered in all Speed defense tasks.</Effect>
 		<Depletion>1 in 1d20 (check per completed crafting project)</Depletion>
 	</Artefact>
